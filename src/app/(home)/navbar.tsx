@@ -1,4 +1,3 @@
-import Link from "next/link";
 import { SearchInput } from "./search-input";
 import { UserButton, OrganizationSwitcher } from "@clerk/nextjs";
 
